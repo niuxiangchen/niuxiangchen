@@ -1,8 +1,8 @@
 #  Hello I am Newxc03
 
 [![](https://img.shields.io/badge/Github-Newxc03-brightgreen?&logo=github)](https://github.com/niuxiangchen)
-[![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-henu__Newxc03-green)](https://juejin.cn/user/1469409740467725)
-[![](https://img.shields.io/badge/CSDN-henu__Newxc03-green)](https://blog.csdn.net/nxcniuxiangchen)
+[![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Newxc03-green)](https://juejin.cn/user/1469409740467725)
+[![](https://img.shields.io/badge/CSDN-Newxc03-green)](https://blog.csdn.net/nxcniuxiangchen)
 <br>
 
 ## Technology Stack
