@@ -14,4 +14,4 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Nest.js](https://img.shields.io/badge/-Nest-%232c3e50?style=flat-square&logo=nestjs) 
-![SpringBoot](https://img.shields.io/badge/-Spring-%232c3e50?style=flat-square&logo=srping) 
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-%232c3e50?style=flat-square&logo=springboot) 
