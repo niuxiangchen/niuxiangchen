@@ -13,3 +13,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=vuedotjs)
+![Nest.js](https://img.shields.io/badge/-Vue-%232c3e50?style=flat-square&logo=nestjs)
